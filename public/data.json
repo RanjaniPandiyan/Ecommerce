@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "image": "/images/m-1.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Mens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p2",
+      "image": "/images/m-2.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Mens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p3",
+      "image": "/images/m-3.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Mens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p4",
+      "image": "/images/m-4.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Mens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p5",
+      "image": "/images/m-5.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Mens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p6",
+      "image": "/images/m-6.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Mens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p7",
+      "image": "/images/w-1.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Womens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p8",
+      "image": "/images/w-2.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Womens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p9",
+      "image": "/images/w-3.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Womens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p10",
+      "image": "/images/w-4.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Womens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p11",
+      "image": "/images/w-6.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Womens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p12",
+      "image": "/images/w-7.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Womens",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p13",
+      "image": "/images/k-1.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Kids",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p14",
+      "image": "/images/k-2.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Kids",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p15",
+      "image": "/images/k-3.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Kids",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p16",
+      "image": "/images/k-4.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Kids",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p17",
+      "image": "/images/k-5.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Kids",
+      "descr": "Men Shirt with Pant"
+    },
+    {
+      "id": "p18",
+      "image": "/images/k-6.jpg",
+      "name": "Men Shirt with Pant",
+      "category": "Kids",
+      "descr": "Men Shirt with Pant"
+    }
+  ]
+}
